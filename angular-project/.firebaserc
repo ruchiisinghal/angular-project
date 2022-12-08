@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-student123": {
+      "hosting": {
+        "angular-project": [
+          "crud-student123"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-student123"
+  }
+}
